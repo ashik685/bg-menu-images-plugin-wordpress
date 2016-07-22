@@ -11,10 +11,10 @@
 
 /**
  * Plugin Name: Nav Menu Background images
- * Plugin URI:  http://www.sutlej.net/
+ * Plugin URI:  http://support.aaextensions.com/
  * Description: Display image as background of a menu content.
- * Author:      Rana Mansoor Akbar Khan
- * Author URI:  https://www.odesk.com/users/~01091649115e0914dc
+ * Author:      AA Extensions
+ * Author URI:  http://support.aaextensions.com/
  * Version:     1.0
  * Text Domain:  coope
  * Domain Path: /languages/
